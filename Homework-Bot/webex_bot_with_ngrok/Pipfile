@@ -1,0 +1,10 @@
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "webex-bot-using-ngrok"
+[dev-packages]
+[packages]
+requests = "*"
+webexteamssdk = "*"
+flask = "*"
+[requires]
+python_version = "3.9"
